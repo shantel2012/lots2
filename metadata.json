@@ -1,0 +1,7 @@
+{
+  "name": "ParkFinder",
+  "description": "Find, navigate to, and book parking spaces in real-time using Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
